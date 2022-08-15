@@ -1,3 +1,6 @@
+#©2022 Qi Sun
+
+
 import numpy as np
 from sklearn.svm import NuSVC,LinearSVC
 import pickle,os

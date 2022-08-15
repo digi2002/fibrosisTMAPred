@@ -1,3 +1,6 @@
+#©2022 Qi Sun
+
+
 samplefiles = {'lung1B': '1B lung TMA 07082020new.txt',
                'lung2B': '2B lung TMA 07082020new.txt',
                'lung3B': '3B lung TMA 07092020new.txt',

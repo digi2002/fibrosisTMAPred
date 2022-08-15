@@ -1,3 +1,6 @@
+#©2022 Qi Sun
+
+
 from util import scanpycluster_TMAmulti
 from plot_util import plotanno,plotsingle,umapplot,plotannotmp
 import scanpy as sc

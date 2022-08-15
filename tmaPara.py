@@ -1,3 +1,6 @@
+#©2022 Qi Sun
+
+
 from util import readOrifile
 
 samplefiles = {'lung1B': 'Fibrosis TMA pngiso June0122_1809_2.txt'}

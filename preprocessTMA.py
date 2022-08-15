@@ -1,3 +1,6 @@
+#©2022 Qi Sun
+
+
 import scanpy as sc
 from util import readOrifile,genadata
 import pandas as pd
